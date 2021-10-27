@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.task {
+  padding-bottom: 3rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 100px auto;
+  width: 65%;
+}
+
+.to_do_list {
+  list-style: none;
+}
+
+.toDoForm {
+  margin-top: 10rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 100px auto;
+  width: 65%;
+}

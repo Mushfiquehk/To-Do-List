@@ -1,0 +1,27 @@
+html {
+  background-color: #003049;
+}
+
+.title {
+  font-size: 2.125rem;
+  color: #f8edeb;
+}
+
+
+.to_do_item {
+  display: flex;
+  background-color: #ffb703;
+  padding: 0px 15px 0px 0px;
+  margin-bottom: 3rem;
+  min-width: 33rem;
+}
+
+.to_do_item__info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-left: solid 3px #fb8500;
+  margin-left: 0px;
+  padding-left: 2rem;
+  min-width: 25rem;
+}

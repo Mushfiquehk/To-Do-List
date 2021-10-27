@@ -1,0 +1,17 @@
+input[type=text] {
+  height: 1.5rem;
+  min-width: 15rem;
+}
+
+input[type=text]:focus {
+  border: solid 5px #fb8500;
+  border-radius: 20px;
+  box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+  transform: scale(1.2);
+}
+
+.title {
+  margin: 0.5rem 0px 1rem 0px;
+  font-size: 1.5rem;
+  color: black;
+}
